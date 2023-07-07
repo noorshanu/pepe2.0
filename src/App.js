@@ -11,13 +11,15 @@ function App() {
     <div className="App bg-[#191A19]">
       <Navbar />
       <div className="pt-[85px] max-w-6xl mx-auto px-5">
-      <Hero />
-      <About />
-      <Tokenomics />
+        <Hero />
+        <About />
+        <Tokenomics />
+      </div>
       <Partners />
-      <Support />
-      <Footer />
 
+      <div className="pt-[85px] max-w-6xl mx-auto px-5">
+        <Support />
+        <Footer />
       </div>
     </div>
   );

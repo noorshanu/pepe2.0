@@ -7,17 +7,22 @@ let navItems = [
     icon: '/assets/icons/business.png',
   },
   {
-    label: 'Twitter',
+    label: 'About',
     route: 'Market',
     icon: '/assets/icons/finance.png',
   },
   {
-    label: 'Discord',
+    label: 'Tokenomics',
     route: 'Market',
     icon: '/assets/icons/finance.png',
   },
   {
     label: 'Telegram',
+    route: 'Market',
+    icon: '/assets/icons/finance.png',
+  },
+  {
+    label: 'Twitter',
     route: 'Market',
     icon: '/assets/icons/finance.png',
   },
