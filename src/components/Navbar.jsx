@@ -8,12 +8,12 @@ let navItems = [
   },
   {
     label: 'About',
-    route: 'Market',
+    route: '#about',
     icon: '/assets/icons/finance.png',
   },
   {
     label: 'Tokenomics',
-    route: 'Market',
+    route: '#token',
     icon: '/assets/icons/finance.png',
   },
   {
