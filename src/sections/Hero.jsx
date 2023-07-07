@@ -7,7 +7,7 @@ const Hero = () => {
         <img src="/hero.svg" className="w-[50%]   h-auto" />
         <div className="flex-[1] w-[40%] flex flex-col px-2 items-center max-w-xs text-white text-center">
           <h2 className="text-lg font-pop mb-3">Welcome To</h2>
-          <h1 className="text-4xl sm:text-7xl font-bold font-pop mb-3">
+          <h1 className="text-4xl sm:text-7xl font-bold font-pop mb-3 font-arch">
             APE 2.0
           </h1>
           <p className="sm:text-center text-[0.75rem] sm:text-base  text-start px-4 mb-4 sm:mb-8">
@@ -19,7 +19,7 @@ const Hero = () => {
               Buy Pinksale
             </button>
             <button className="ml-1 sm:ml-3 bg-[#fff] py-2 text-[0.5rem] sm:text-base font-bold sm:font-medium px-3 rounded-md text-black font-pop">
-              Buy Pinksale
+              Audit
             </button>
           </div>
           <div className="w-full flex justify-center mt-8 gap-x-3">

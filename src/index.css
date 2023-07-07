@@ -6,3 +6,12 @@
 .font-pop{
   font-family: 'Poppins', sans-serif;
 }
+@font-face {
+  font-family: arch;
+  src: url('fonts/ARCADECLASSIC.TTF');
+}
+
+.font-arch{
+  font-family: arch;
+  font-weight: 400;
+}
