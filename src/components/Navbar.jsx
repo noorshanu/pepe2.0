@@ -18,12 +18,12 @@ let navItems = [
   },
   {
     label: 'Telegram',
-    route: 'Market',
+    route: 'https://t.me/APECOIN2point0',
     icon: '/assets/icons/finance.png',
   },
   {
     label: 'Twitter',
-    route: 'Market',
+    route: 'https://twitter.com/APECOIN2point0',
     icon: '/assets/icons/finance.png',
   },
   // { label: "Features", route: "Create", icon: "/assets/icons/interface.png" },
