@@ -41,12 +41,12 @@ export default function Navbar() {
                   <a
                     key={i}
                     href={nav.route}
-                    className={`text-medium font-normal hover:text-[#54FF7F]
+                    className={`text-medium font-normal hover:text-[#ddf840]
                      
                      ${
                        route == nav.route
-                         ? ' text-[#54FF7F] '
-                         : 'text-[#9292C5]'
+                         ? ' text-[#c9ed39] '
+                         : 'text-[#ffffff]'
                      }
                   `}
                   >
