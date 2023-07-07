@@ -19,7 +19,6 @@ function App() {
 
       <div className="pt-[85px] max-w-6xl mx-auto px-5">
         <Support />
-        <Footer />
       </div>
     </div>
   );
