@@ -7,19 +7,19 @@ let navItems = [
   },
   {
     label: 'About',
-    route: 'Market',
+    route: '#about',
   },
   {
     label: 'Tokenomics',
-    route: 'Market',
+    route: '#token',
   },
   {
     label: 'Telegram',
-    route: 'Market',
+    route: 'https://t.me/APECOIN2point0',
   },
   {
     label: 'Twitter',
-    route: 'Market',
+    route: 'https://twitter.com/APECOIN2point0',
   },
 ]
 
