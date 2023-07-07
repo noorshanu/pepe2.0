@@ -23,8 +23,14 @@ const Hero = () => {
             </button>
           </div>
           <div className="w-full flex justify-center mt-8 gap-x-3">
+            <a href="https://t.me/APECOIN2point0" target='_blank'>
+
             <img src="/social-media/telegram-white.svg" className='cursor-pointer' />
+            </a>
+            <a href="https://twitter.com/APECOIN2point0" target='_blank'>
+
             <img src="/social-media/twitter-white.svg" className='cursor-pointer' />
+            </a>
           </div>
           <div className="hidden sm:flex flex-col ">
             <p className="text-[#E8BA4B] text-[0.8vw] sm:text-base  mt-3 mb-2">
