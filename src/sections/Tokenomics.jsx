@@ -3,7 +3,7 @@ import React from 'react'
 const Tokenomics = () => {
   return (
     <div id='token'>
-      <h1 className="text-5xl sm:text-7xl text-[#E8BA4B] text-center font-bold mt-20">
+      <h1 className="text-5xl sm:text-7xl text-[#E8BA4B] text-center font-bold mt-20 font-arch">
         Tokenomics
       </h1>
       <div className="flex flex-col md:flex-row justify-center items-center  mt-20">
