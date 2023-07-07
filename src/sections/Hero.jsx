@@ -15,11 +15,11 @@ const Hero = () => {
           </p>
 
           <div className="flex w-full justify-center">
-            <button className="bg-[#E8BA4B] py-2 text-[0.5rem] sm:text-base font-bold sm:font-medium px-3 rounded-md text-black font-pop">
+            <a href='https://www.pinksale.finance/launchpad/0x5B6c77746663B232ef9abb1a9aA64488CD493D94?chain=ETH' target='_blank'  className="bg-[#E8BA4B] py-2 text-[0.5rem] sm:text-base font-bold sm:font-medium px-3 rounded-md text-black font-pop">
               Buy Pinksale
-            </button>
+            </a>
             <button className="ml-1 sm:ml-3 bg-[#fff] py-2 text-[0.5rem] sm:text-base font-bold sm:font-medium px-3 rounded-md text-black font-pop">
-              Buy Pinksale
+             Audit
             </button>
           </div>
           <div className="hidden sm:flex flex-col ">
